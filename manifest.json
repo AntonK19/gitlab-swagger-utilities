@@ -23,8 +23,8 @@
       "matches": [
         "http://gitlab.com/*",
         "https://gitlab.com/*",
-        "http://git.mgmt.ocp.bawag.com/*",
-        "https://git.mgmt.ocp.bawag.com/*"
+        "https://gitlab.samoletgroup.ru/*",
+       
       ],
       "js": [
         "src/content/inject.js",
