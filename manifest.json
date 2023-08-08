@@ -23,7 +23,7 @@
       "matches": [
         "http://gitlab.com/*",
         "https://gitlab.com/*",
-        "https://gitlab.samoletgroup.ru/*",
+        "https://gitlab.samoletgroup.ru/*"
        
       ],
       "js": [
